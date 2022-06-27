@@ -4,7 +4,7 @@ import MarketingApp from './components/MarketingApp';
 const App = () => {
   return (
     <div>
-      <h1>Test microfrontend - Container Componet!</h1>
+      <h1>Test microfrontend - Container Componete!</h1>
       <hr />
       <MarketingApp />;
     </div>
