@@ -6,6 +6,7 @@ const App = () => {
     <div>
       <h1>Test microfrontend - Container Componente!</h1>
       <hr />
+      <hr />
       <MarketingApp />;
     </div>
   );
